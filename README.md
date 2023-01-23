@@ -16,7 +16,7 @@
 
 <!--Social Media-->  
 <div align="center"> 
-<a href="https://www.instagram.com/js.com__/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
+<a href="https://www.instagram.com/js.com_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
 <a href="https://twitter.com/C_Js_JaasielHJ" target="_blank"><img src="https://img.shields.io/badge/-Twitter-%230077B2?style=for-the-badge&logo=twitter&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
  </div>
   
