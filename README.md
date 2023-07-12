@@ -1,5 +1,5 @@
 <!--Title @Teyaochiuani-->
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00b3ff&size=35&center=true&vCenter=true&width=1000&lines=HELLO👋;I'm+from+México;I'm+19+years+old;Welcome!)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00b3ff&size=35&center=true&vCenter=true&width=1000&lines=HELLO👋;I'm+from+México;I'm+20+years+old;Welcome!)
 
 <!--More about me-->
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00b3ff&size=35&center=true&vCenter=true&width=1000&lines=I+Have+A+Cat🐈;I+Like+BLACKPINK;I+Love+JS;Anyway+I+Like+Programming!)
